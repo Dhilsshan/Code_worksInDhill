@@ -229,6 +229,39 @@ body {
   margin-right: 20px;
 }
 
+.main-section .top-nav .prev-btn button i:hover {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.top-nav .login-btn .ins {
+  background: transparent;
+  border: none;
+  color: #838181;
+  font-size: 15px;
+  font-weight: 600;
+  margin-right: 3px;
+}
+
+.top-nav .login-btn .ins:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.top-nav .login-btn .install {
+  background: transparent;
+  border: none;
+  color: #838181;
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 20px;
+}
+
+.top-nav .login-btn .install:hover {
+  color: white;
+  cursor: pointer;
+}
+
 .top-nav .login-btn .sign-up {
   background: transparent;
   border: none;
@@ -240,6 +273,7 @@ body {
 
 .top-nav .login-btn .sign-up:hover {
   color: white;
+  cursor: pointer;
 }
 
 .top-nav .login-btn .login {
@@ -252,7 +286,8 @@ body {
 }
 
 .top-nav .login-btn .login:hover {
-  background: #f3f3f3;
+  background: #e5e0e0;
+  cursor: pointer;
 }
 
 .spotify-playlist {
