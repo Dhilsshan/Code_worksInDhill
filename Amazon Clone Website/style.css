@@ -186,6 +186,11 @@ span {
   margin-bottom: 6px;
 }
 
+.box-content p:hover {
+  cursor: pointer;
+  color: rgb(14, 40, 64);
+}
+
 /** Footer Panel **/
 
 .foot-panel1 {
